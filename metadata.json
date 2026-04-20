@@ -1,0 +1,6 @@
+{
+  "name": "O Melhor Presente",
+  "description": "Uma experiência interativa para celebrar um aniversário com um presente especial.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
